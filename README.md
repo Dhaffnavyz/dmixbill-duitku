@@ -1,8 +1,8 @@
 # Payment gateway Duitku
 
-payment gateway Duitku untuk PHPNuxBill
+payment gateway Duitku untuk DMixBill
 
-[Download](https://github.com/hotspotbilling/phpnuxbill-duitku/archive/refs/heads/master.zip)
+[Download](https://github.com/dhaffnavyz/dmixbill-duitku/archive/refs/heads/master.zip)
 
 ## instalasi
 
@@ -13,12 +13,12 @@ Copy isi folder **ui** ke folder **system/paymentgateway/ui/**
 
 ## Author
 
-[Ibnu Maksum aka ibnux](https://github.com/ibnux)
+[dhafa nazula p](https://github.com/dhaffnavyz)
 
 ## Donations
 
 ### International
-[Github Sponsor](https://github.com/sponsors/ibnux)
+[Github Sponsor](https://github.com/sponsors/dhaffnavyz)
 
 ### Indonesia
-[Trakteer iBNuX](https://trakteer.id/ibnux)
+[Trakteer iBNuX](https://trakteer.id/dhafanazper)
