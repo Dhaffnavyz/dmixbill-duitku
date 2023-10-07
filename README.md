@@ -21,4 +21,4 @@ Copy isi folder **ui** ke folder **system/paymentgateway/ui/**
 [Github Sponsor](https://github.com/sponsors/dhaffnavyz)
 
 ### Indonesia
-[Trakteer iBNuX](https://trakteer.id/dhafanazper)
+[Trakteer Dhafanp](https://trakteer.id/dhafanazper)
